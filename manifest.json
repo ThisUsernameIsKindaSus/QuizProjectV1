@@ -1,12 +1,12 @@
 {
-    "theme_color": "#090909",
-    "background_color": "#ffffff",
-    "display": "standalone",
+    "theme_color": "#7aabff",
+    "background_color": "#7aabff",
+    "display": "browser",
     "scope": "/",
     "start_url": "/index.html",
-    "name": "Star Trek The Next Generation Quiz",
-    "short_name": "ST Quiz",
-    "description": "A quiz about Star Trek The Next Generation TV Show.",
+    "name": "Minecraft Quiz",
+    "short_name": "MC Quiz",
+    "description": "A short, 12 question quiz on Minecraft",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
